@@ -1,0 +1,44 @@
+﻿	
+       ██   ██  ███  █ █ ███  ███  ███ █  █ █████
+      █  █ █  █ █  █ █ █ █  █  █  █    █  █   █
+      █    █  █ ███   █  ███   █  █ ██ ████   █ 
+      █  █ █  █ █     █  █  █  █  █  █ █  █   █
+       ██   ██  █     █  █  █ ███  ██  █  █   █
+	
+	In this disclaimer, the terms 'this work' or 'work' refer to all the files
+	included in the downloaded zip archive that contains this copyright disclaimer.
+   
+	(1) You are NOT allowed to:
+	- copy, distribute and transmit this work. (which, in the broadest sense, means you can't reupload it)
+	- change, edit and adapt this work for commerical use.
+
+	(2) You are allowed to:
+	- privately use this work in your Minecraft worlds.
+	- edit this work if you don't share it publically. (see Point 6)
+	- showcase footage of this work in videos, blogs, articles and similar if you credit me. (see Point 3)
+	- use this work in your Minecraft maps and Minecraft minigames if you credit me. (see Point 4)
+	- use this work on your public Minecraft server if you credit me. (see Point 5)
+
+	(3) If you want to showcase footage of this work in YouTube videos, blogs and similar,
+	please put a clearly visible disclaimer stating me as the author or clearly visible link 
+	to this work on my website into your description or article. The disclaimer can look 
+	like the following example: 'Function by IJAMinecraft: ijaminecraft.com/...'
+
+	(4) If you want to use this work in a Minecraft map or Minecraft minigame that you want
+	to share publically, you need to put a clearly visible disclaimer into your Minecraft map
+	or Minecraft minigame which states that you're using my work. The disclaimer must also 
+	provide a link to either my YouTube channel, my website or the work itself on my website.
+	The disclaimer can look like the following example:
+	'This map uses functions by IJAMinecraft. You can find them at: ijaminecraft.com/...'
+
+	(5) If you want to use this work on a public Minecraft server, you need to put a clearly 
+	visible disclaimer close to the area where the work is used. The disclaimer needs to state
+	that you're using my work and must provide a link to either my YouTube channel, my website or
+	the work itself on my website. The disclaimer can look like the following example:
+	'This server uses functions by IJAMinecraft. You can find them at: ijaminecraft.com/...'
+
+	(6) If you want to edit these files to use them in a Minecraft map, a Minecraft minigame or 
+	on a Minecraft server that you want to share publically, you are allowed to do so if you credit me.
+	For how you credit me, the same rules apply as stated in Point 4 for Minecraft minigames and Minecraft 
+	maps, and in Point 5 for Minecraft servers.
+	========================================================
